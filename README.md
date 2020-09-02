@@ -1,8 +1,8 @@
 # about-me
 
 ## Repository Links
-- Source Repository: https://github.com/chanWright/about-me
-- Hosted Page: https://chanWright.github.io/about-me/
+- Repo: https://github.com/chanWright/about-me
+- Page: https://chanWright.github.io/about-me/
 
 ## About
 I will be using this repo for my Web Apps class, it will be updated periodically with more info and resources having to due with web development.
