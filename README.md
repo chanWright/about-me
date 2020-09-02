@@ -9,11 +9,11 @@ I will be using this repo for my Web Apps class, it will be updated periodically
 
 ## Recommended Tools
 Required Tools:
-- GitHub
+- [GitHub](https://github.com/)
 
 Required Languages:
 - Markdown
--HTML
+- HTML
 
 ## Recommended Resources
 - https://www.xmlfiles.com/xml/xml-intro/
