@@ -1,0 +1,23 @@
+header{
+	background-color: lightblue;
+}
+body{
+	color: white;
+	background-image: url(https://github.com/chanWright/about-me/background.jpg);
+}
+nav{
+	background-color: ;
+}
+a{
+	color: black;
+}
+#profile_picture{
+	align-self: center;
+	width: 10mm;
+	height: 10mm;
+	border-radius: 50%;
+}
+}
+h3{
+background-color: lightblue;
+}
