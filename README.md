@@ -6,6 +6,7 @@
 
 ## About
 I will be using this repo for my Web Apps class, it will be updated periodically with more info and resources having to due with web development.
+Currently my Git Pages site contains an about me, contact page, and an interactive client-side app to calculate the area of a triangle.
 
 ## Recommended Tools
 Required Tools:
@@ -14,6 +15,7 @@ Required Tools:
 Required Languages:
 - Markdown
 - HTML
+-Javascript
 
 ## Recommended Resources
 - https://www.xmlfiles.com/xml/xml-intro/
