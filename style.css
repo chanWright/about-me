@@ -4,6 +4,9 @@ header{
 body{
 	color: white;
 	background-image: url(https://raw.githubusercontent.com/chanWright/about-me/master/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 nav{
 	background-color: ;
