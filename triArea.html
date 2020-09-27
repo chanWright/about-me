@@ -13,5 +13,32 @@
       <a href="contact.html">Contact</a>
       <a href="triArea.html">Triangle Area</a>
     </nav>
+    <header>
+      <h1>
+        This page is used to calculate the area of a triangle.
+      </h1>
+    </header>
+    <table>
+      <tr>
+        <td>Base</td>
+        <td>
+          <input type="text" id = "baseText" name = "triBase" value = "" class = "inlong">
+        </td>
+      </tr>
+      <tr>
+        <td>Height</td>
+        <td>
+          <input type="text" id = "heightText" name = "triHeight" value = "" class = "inlong">
+        </td>
+      </tr>
+    </table>
+    <button onclick="calcTriArea(); return false">
+      Calculate Area
+    </button>
+    <h2>
+      Area = 
+      <span id = "answer">
+      </span>
+    </h2>
   </body>
 </html>
